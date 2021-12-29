@@ -20,8 +20,8 @@ The dataset contain the following 9 classes that where extracted from movies
 
 After extracting a sequence of 2 frames/sec for all shots, three kinds of pre-computed features are available in a npy format for the dataset: 
 
-1. **sequentail_vgg_features** directory contains, for each shot, a sequence of features that are extracted using the first linear layer of the VGG16 network
-2. **sequentail_features** directory contains, for each shot, a sequence of features that are extracted using the visual analysis from [multimodal_movie_analysis](https://github.com/tyiannak/multimodal_movie_analysis) library.
+1. **sequential_vgg_features** directory contains, for each shot, a sequence of features that are extracted using the first linear layer of the VGG16 network
+2. **sequential_features** directory contains, for each shot, a sequence of features that are extracted using the visual analysis from [multimodal_movie_analysis](https://github.com/tyiannak/multimodal_movie_analysis) library.
 3. **aggregated_features** directory contains, for each shot, 4 statistics (std ratio, top-10 percentile, mean of the delta features and std of the delta features) that are calculated based on a sequence of features that are extracted using the visual analysis from [multimodal_movie_analysis](https://github.com/tyiannak/multimodal_movie_analysis) library.
 
 ## Cite
