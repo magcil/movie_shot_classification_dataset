@@ -3,18 +3,19 @@ A dataset with classified film shots.
 
 ## Dataset classes
 The dataset contains the following 9 classes that where extracted from movies
-| Shot type                     | instances |
-|-------------------------------|-----------|
-| Static (985 shots)            | 985       |
-| Handled (273 shots)           | 273       |
-| Panoramic (207 shots)         | 207       |
-| Travelling_in (55 shots)      | 55        |
-| Travelling_out (46 shots)     | 46        |
-| Vertical_movements (52 shots) | 52        |
-| Zoom in (51 shots)            | 51        |
-| Aerial (51 shots)             | 51        |
-| Panoramic_lateral (46 shots)  | 46        |
-| **Total**                     | 1766      |
+| Shot type           | instances |
+|---------------------|-----------|
+| Static              | 985       |
+| Handled             | 273       |
+| Panoramic           | 207       |
+| Travelling_in       | 55        |
+| Travelling_out      | 46        |
+| Vertical_movements  | 52        |
+| Zoom in             | 51        |
+| Aerial              | 51        |
+| Panoramic_lateral   | 46        |
+| Tilt                | 37        |
+| **Total**           | 1803      |
 
 ## Dataset files
 
