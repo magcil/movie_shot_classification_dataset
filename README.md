@@ -2,7 +2,7 @@
 A dataset with classified film shots.
 
 ## Dataset classes
-The dataset contains the following 9 classes that where extracted from movies
+The dataset contains the following 10 classes that where extracted from movies
 | Shot type           | instances |
 |---------------------|-----------|
 | Static              | 985       |
