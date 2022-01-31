@@ -6,7 +6,7 @@ The dataset contains the following 10 classes that where extracted from movies
 | Shot type           | instances |
 |---------------------|-----------|
 | Static              | 985       |
-| Handled             | 273       |
+| Ηandheld             | 273       |
 | Panoramic           | 207       |
 | Travelling_in       | 55        |
 | Vertical_movements  | 52        |
