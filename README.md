@@ -9,12 +9,12 @@ The dataset contains the following 10 classes that where extracted from movies
 | Ηandheld             | 273       |
 | Panoramic           | 207       |
 | Travelling_in       | 55        |
-| Vertical_movements  | 52        |
+| Vertical_static     | 52        |
 | Zoom in             | 51        |
 | Aerial              | 51        |
 | Travelling_out      | 46        |
 | Panoramic_lateral   | 46        |
-| Tilt                | 37        |
+| Vertical_moving     | 37        |
 | **Total**           | 1803      |
 
 ## Dataset files
