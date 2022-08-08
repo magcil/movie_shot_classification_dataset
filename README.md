@@ -26,5 +26,7 @@ After extracting a sequence of 5 frames/sec for all shots, three kinds of pre-co
 3. **aggregated_features** directory contains, for each shot, 6 statistics (mean, std, median by std ratio, top-10 percentile, mean of the delta features and std of the delta features) for the non-object features and the mean values of the object features that are calculated based on a sequence of features that are extracted using the visual analysis from [multimodal_movie_analysis](https://github.com/tyiannak/multimodal_movie_analysis) library.
 
 ## Cite
-
-To be filled 
+If you are using this dataset, please use the following citation
+```
+Petrogianni, Antonia, Panagiotis Koromilas, and Theodoros Giannakopoulos. "Film Shot Type Classification Based on Camera Movement Styles." Iberian Conference on Pattern Recognition and Image Analysis. Springer, Cham, 2022.
+```
