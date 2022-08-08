@@ -28,5 +28,12 @@ After extracting a sequence of 5 frames/sec for all shots, three kinds of pre-co
 ## Cite
 If you are using this dataset, please use the following citation
 ```
-Petrogianni, Antonia, Panagiotis Koromilas, and Theodoros Giannakopoulos. "Film Shot Type Classification Based on Camera Movement Styles." Iberian Conference on Pattern Recognition and Image Analysis. Springer, Cham, 2022.
+@inproceedings{petrogianni2022film,
+  title={Film Shot Type Classification Based on Camera Movement Styles},
+  author={Petrogianni, Antonia and Koromilas, Panagiotis and Giannakopoulos, Theodoros},
+  booktitle={Iberian Conference on Pattern Recognition and Image Analysis},
+  pages={602--615},
+  year={2022},
+  organization={Springer}
+}
 ```
